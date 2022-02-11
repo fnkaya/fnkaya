@@ -7,10 +7,8 @@ Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.
 <br/>
 
 <h4 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/fnkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fnkaya" height="20" width="30" /></a>
-</p>
-    
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fnkaya/)
 
 <h4 align="left">Languages and Tools:</h3>
 <div>
@@ -67,6 +65,13 @@ Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.
     
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnkaya&show_icons=true&theme=dark&locale=en&layout=compact" alt="fnkaya" /></p>
+<h4>Github Stats</h4>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnkaya&show_icons=true&theme=dark&locale=en&layout=compact" alt="fnkaya" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fnkaya&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="fnkaya" />
+  </div<
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnkaya&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="fnkaya" /></p>
+
+
+
+
