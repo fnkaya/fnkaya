@@ -63,13 +63,10 @@ Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.
   </a>
 </div>
     
-<br/>
+<br/><br/>
 
-<h4>Github Stats</h4>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnkaya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fnkaya&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="fnkaya" />
-</div>
+ <img src="https://github-readme-stats.vercel.app/api?username=fnkaya&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="fnkaya" />
+
 
 
 
