@@ -62,10 +62,7 @@ Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   </a>
 </div>
-    
-<br/><br/>
 
- <img src="https://github-readme-stats.vercel.app/api?username=fnkaya&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="fnkaya" />
 
 
 
