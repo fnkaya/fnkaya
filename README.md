@@ -10,6 +10,7 @@ Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/fnkaya/)
 
+<br/>
 <h4 align="left">Languages and Tools:</h3>
 <div>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -41,9 +42,7 @@ Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
     </a
 </div>
-      
-<br/><br/>
-  
+<p>   </p>
 <span><samp>I'm currently learning...<samp></span>
 <div>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
