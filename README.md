@@ -1,6 +1,6 @@
 <p style="font-size:18px">
   <samp>
-Hi, I'm Furkan Kaya, working as Software Developer at <a href="https://obss.com.tr/en/">OBSS Technology</a>.
+Hi, I'm Furkan Kaya, working as Software Engineer at <a href="https://www.justlife.com/">Justlife</a>.
   </samp>
 </p>
 
