@@ -1,6 +1,6 @@
 <p style="font-size:18px">
   <samp>
-Hi, I'm Furkan Kaya, working as Software Engineer at <a href="https://www.justlife.com/">Justlife</a>.
+Hi, I'm Furkan Kaya, working as Software Engineer at <a href="https://www.linkedin.com/company/justlifemena/">Justlife</a>.
   </samp>
 </p>
 
